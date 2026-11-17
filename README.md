@@ -7,6 +7,10 @@
   - [Customer-Shopping-Behavior-Analysis]( https://github.com/AbdulazizAli8/Customer_Shopping_Behavior_Analysis )
   - [Bike-Sales-Dashboard]( https://github.com/AbdulazizAli8/Bike-Sales-Dashboard )
   - [Data-Professionals-Survey]( https://github.com/AbdulazizAli8/Data-Professionals-Survey )
+  - [Impact-of-Social-Media](  https://github.com/AbdulazizAli8/Impact-of-Social-Media/tree/main )
+  - [Coffe-Sales-Analysis](  https://github.com/AbdulazizAli8/Coffee-Sales-Analysis/tree/main )
+    
+
 
  <h2>Certifications</h2>
 
