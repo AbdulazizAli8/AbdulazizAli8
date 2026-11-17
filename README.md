@@ -17,13 +17,19 @@
 - [Microsoft Certified Power BI Data Analyst Associate]( https://learn.microsoft.com/en-us/users/abdulazizali-8687/credentials/561139ddb812e2d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
  
- 
+ Skills and Tools
+ - Power BI
+ - Dax
+ * Excel
+ + Python
+ + SQL
 
  
 
  
 
 <h2> 🤳 Connect with me:</h2>
+
 
  
  
