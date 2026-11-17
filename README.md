@@ -26,7 +26,9 @@
  + SQL
 
  
+<h2> Connect with me </h2>
 
- 
+ (  https://www.linkedin.com/in/abdulaziz-ali-508890280/)
+
 
  
